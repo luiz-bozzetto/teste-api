@@ -1,15 +1,6 @@
-[
-  {
-    "id": 1,
-    "name": "MCCO4rrQ3h",
-    "online": false,
-    "picture": "https://picsum.photos/seed/93/60/60"
-  },
-  {
-    "id": 2,
-    "name": "kIfSa6kPqH",
-    "online": true,
-    "picture": "https://picsum.photos/seed/30/60/60"
+{
+  "User": {
+    "name": { "string": { "minLength": 3, "maxLength": 10 } },
+    "online": { "boolean": {} }
   }
-]
-
+}
