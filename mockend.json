@@ -1,14 +1,15 @@
-{
-  "Post": {
-    "title": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
-    }
+[
+  {
+    "id": 1,
+    "name": "MCCO4rrQ3h",
+    "online": false,
+    "picture": "https://picsum.photos/seed/93/60/60"
   },
-  "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
-    }
+  {
+    "id": 2,
+    "name": "kIfSa6kPqH",
+    "online": true,
+    "picture": "https://picsum.photos/seed/30/60/60"
   }
-}
+]
+
