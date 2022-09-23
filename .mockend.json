@@ -1,14 +1,31 @@
-{
-  "Post": {
-    "title": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
-    }
-  },
-  "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
-    }
-  }
-}
+[
+	{
+		"id": 1,
+		"title": "Teste-me"
+	},
+	{
+		"id": 2,
+		"title": "IdkFugItnW"
+	},
+	{
+		"id": 3,
+		"title": "YL40B8Ngz2"
+	},
+	{
+		"id": 4,
+		"title": "wNHVmtsmLa"
+	},
+	{
+		"id": 5,
+		"title": "x7tUND1JWx"
+	},
+	{
+		"id": 6,
+		"title": "wa4DJg8N2y"
+	},
+	{
+		"id": 7,
+		"title": "XTmaRXkv0q"
+	}
+]
+	
