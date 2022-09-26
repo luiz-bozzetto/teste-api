@@ -1,20 +1,31 @@
 {
-   "Json": {
-	"customer": {
-            "UUI": { "string": ["1~1~1121211010~1~~1~~03958744834;;;~134633A5D-9A05204"] },
-            "customerAccountId": { "string": ["123456789"] },
-            "customerName": { "string": ["NOME"] },
-            "ANI": { "string": ["123409876541"] },
-            "partyIdentificationType": { "string": ["ANI"] },
-            "partyIdentificationNumber": { "string": ["2289675645"] },
-            "cityId": { "string": ["123"] },
-            "scriptPoint": { "string": ["6131"] },
-            "callId": { "string": ["1624558506-14562992"] },
-            "telephoneNumber": { "string": ["65993418761"] },
-            "taxIdentificationType": { "string": [""] },
-            "taxIdentificationNumber": { "string": [""] },
-            "BusinessType": { "string": ["RES"] },
-            "ClientType": { "string": ["PF"] }
-       }
-   }
+	"Json": { "string": [
+		"customer": {
+			"UUI": "1~1~1121211010~1~~1~~03958744834;;;~134633A5D-9A05204",
+			"customerAccountId": "123456789",
+			"customerName": "NOME",
+			"ANI": "123409876541",
+			"partyIdentificationType": "ANI",
+			"partyIdentificationNumber": "2289675645",
+			"cityId": "123",
+			"scriptPoint": "6131",
+			"callId": "1624558506-14562992",
+			"telephoneNumber": "65993418761",
+			"taxIdentificationType": "",
+			"taxIdentificationNumber": "",
+			"BusinessType": "RES",
+			"ClientType": "PF"
+		},
+		"ura": {
+			"timeStamp": "20210624151356",
+			"callId": "1624558506-14562992",
+			"ANI": "65993418761",
+			"vdnDestiny": "1234",
+			"MPL": "COM",
+			"scriptPoint": "6131",
+			"transferCallTimestamp": "20210624151718",
+			"IDoutage": "0",
+			"IDScenarioMulti": "0"
+		}		  
+	] }
 }
