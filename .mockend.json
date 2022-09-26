@@ -1,5 +1,6 @@
 {
-	"Customer": {
+   "Json": {
+	"customer": {
             "UUI": { "string": ["1~1~1121211010~1~~1~~03958744834;;;~134633A5D-9A05204"] },
             "customerAccountId": { "string": ["123456789"] },
             "customerName": { "string": ["NOME"] },
@@ -26,4 +27,5 @@
             "IDoutage": { "string": ["0"] },
             "IDScenarioMulti": { "string": ["0"] }
       }
+   }
 }
